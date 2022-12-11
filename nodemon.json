@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "Zulaxy",
+    "DB_PASSWORD": "7aypRguKUZPSOVt8",
+    "DB_NAME": "mern",
+    "GOOGLE_API_KEY": "AIzaSyBL2Ifao2xgEboB-gLnSbWbnfE1vKUWUFw",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
